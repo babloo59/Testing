@@ -1,0 +1,16 @@
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <p>First React Test CAse</p>
+      <input type='text' placeholder='Enter User Name' name='username' id='UserId' value='YourName' readOnly/>
+      <br/>
+      <br/>
+      <img title='image' src='data:image/webp;base64,UklGRqIFAABXRUJQVlA4IJYFAABwIACdASq3ALgAPoFAl0mlJCGiJhe5SKAQCWNuzoDE9YBToYQE/5u3j+2ssio66JchvKBXrnOAdcaslXZfKniDMixWaPOBzEf/c262rEYuTPGpHVvYNQ5fD/701M1PhLifvvvk1PyPsxpn2WVYSFcln+1JdR/nZLqt6OJsoc73O/C+f33d/H+UVJO8OJzbhskAFwkCsm0J9ssZOF/mtQSFDTwy9CzY2lDM6MLmVsIgfQSN7UxYc51EXvB2//mUIUL+U2wolM5CcaLu16L+x8Rhz5BRWQkus1KCGUVIzs6wtBUQHdq/HSCTlJaLbE0+7XnMsd0uhyDpwX51z7kLHTAUd5qO228tf/FQ0VUYAP7r6qTwVYQvv/uD2w+mHFviJw+9iQlhbbw2MITaivEpIvXu99LUEYC91pUT31p5zy8CYojzOHyz28Lj1TLQgLR/XJmhBagUoGWXoHOo34ddonRS7SGDPD7xO2zzS9dvfnXvzbI8fzycag7jA8HGZh+Su5W1FFbklhNUqOz4HFNTqEB3znXyTo37KBt3/TfwYJnhRebHPMYNc3XHdUZpsu4OeO7loGR45wz82Kni6qOTpIyqSz5a4d4cwi9Jhq6LHM9gJKw+Dj6SpyWzAtUCw52MFQ+d4TYYiLqNnaUWFTMS+D8XUbFfN5FhZ5j5Pg3u0EZZiA4cH8El6j6JP3v+CDsucBb3u5mj4buGP/bkA9mbMQ0Zj3FEEXNEAxxtGFF43xtS/0hRd1cpY4lDAsamG+orA0Isc5yEDjs5HsqRL7Qp81OKZMAowR5wRhYe0cO7mGYdelR3WxSaGaCtWOQM1txZuEdnmU1IzZWJgbwkei7O1yr/GCI/yahdTfih2VKCNr0M1ffLevZ7ZKq8TKd1iPEwnj9v4FisfpZ4PY1Ktge9uhdbomSMukxMOeBZF1Ox/qcocCza5q4dppLUHWWNBxeIybhHysFZVxHJjo9B+D8YG3/h/Aqc5iwlt08ON5J68Itw0NYz7XBpmvQrYm9DA9BH+y8ilnGLMrJaa13cCFWgCvpn18zsjL16GIC4hZo8LTZbTsFqDt7u01MzVtwvrCwBklvrlIR6cHlBhZFrUUWAyYo1+jpNfH4rKoW7MnVW3yAIdXlpVV8e+veBriX6ZbMo9EY5bVtC7jBNahENVmREJFdA0mouPPTordco/uFd4EshmX30DbpeC5Y7nAnTdz+D5J9EY+Z8607ElBP9II8NzUJhpFQVlBlvroRW3KG0R/W0eJRd6nLjQxB01B8SgbeiDtBlg4QxQUjU0qaYg+pGTbpuTliWG6LQegchbNFS4USOETIa5LQf23AkTpPslsYb4R/5eQyIazO3ekMEpnZx+mSE6/FV6jvl47+7BPf+SsUXOAxv752TU+HiZlZlSP4RgBx1p8tabizUzcZs9m4Ol7REs3+sGbhV4BWALJUxPCit4evSmq+HZTjQOuPtj8IgIOeW93LzJSvFtMoxZxt5jIgM8b3KT9HpRJbd4d3YpuWYc64yLN3gApiGZ144dKhhKef7GJVQt2TNmzEVVwtGU7wVegOc/ubEDfX/5r5vkwr7V1SP82KFUNyd0SiuD5nAEuCX+SUf0Ky1wmYEdNDUedJ6EKdQhjLZaUq4bGFr9TWJYSSK0WDBLrdL8HOiaWyKA7b/tyw8yNCQAjsqlgAF4QOAfk/WNfT+iWzKDjcwBt3FCRV927vf3yW8vqGqkMzM3GQqGiXxY470UK1tFQbK7ptnpZTMTwBYBV8qCxgpHve/n/R2IEl+bDKNwhprwJcr7xkZV/nqtnq4KOFennsaiv7Xo71EDO/+CZ2L7h7bitvwbzC36ccxBAABNeSK985AuyDZnete3XMZDiXZeGVxZspr8Ajn31eN3aLBrUzoF8EI4KH7WdEAAA=='/>
+    </div>
+  );
+}
+
+export default App;
